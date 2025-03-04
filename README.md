@@ -114,10 +114,6 @@ stripe listen --forward-to localhost:3000/api/webhook
 
 These steps will help you set up Learnify locally and configure the required environment variables for seamless functionality. Happy learning!
 
-## Links
-
-- [Live Demo](https://learnify-pro.vercel.app)
-
 ## Contributing
 
 Contributions to Learnify are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
