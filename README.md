@@ -56,9 +56,6 @@ To install and configure Learnify, Follow the steps below:
 
 1. Clone the `repository` using:
 
-```
- https://github.com/masudranashawon/learnify.git
-```
 
 2. Navigate to the `project` directory using:
 
